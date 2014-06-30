@@ -3,7 +3,7 @@ class Testing
     puts "ABAAA"
     puts 'aaaa'
     puts "AAADDDD"
-    Rails.logger.debug "Test again"
+    Rails.logger.debug 'Test again'
 
   end
 end
